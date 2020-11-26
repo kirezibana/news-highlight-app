@@ -51,3 +51,9 @@ export NEWS_API_KEY='<Your-Api-Key>'
 
 * Once started, the project can be accessed on your localhost using the address: ``` localhost:5000 ```.
 * Alternatively the application can be accessed by visiting 
+
+## Technologies Used
+
+* Python v3.6
+* Boostrap
+* Flask

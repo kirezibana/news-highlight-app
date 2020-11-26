@@ -23,3 +23,5 @@ News Highlights is a web appliction that displays a list of news sources from ar
 | Read an entire article | **Click an article** | Redirected to the news source's site to read the entire article |
 
 ### Prerequisites
+
+You need the following to start working on the project on your local computer:

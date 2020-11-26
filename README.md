@@ -27,3 +27,7 @@ News Highlights is a web appliction that displays a list of news sources from ar
 You need the following to start working on the project on your local computer:
 
 * A computer running on either Windows, MacOS or Ubuntu operating system installed with the following:
+
+```
+-Python version 3.6
+-Flask
